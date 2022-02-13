@@ -17,7 +17,7 @@ Wow. Je suis complètement retourné. Quel show, mais quel show&nbsp;!
 _Mare of Easttown_ est une série policière et dramatique en sept épisodes, diffusée sur HBO depuis le 18&nbsp;avril 2021. Kate Winslet joue le rôle d’une enquêtrice qui cherche à élucider le meurtre d’une jeune femme dans une petite ville de Pennsylvanie, près de Philadelphie.
 
 {{< figure
-  src="../img/mareofeasttown.webp"
+  src="/articles/img/mareofeasttown.webp"
   larg="100%"
   label="cv-mareofeasttown"
   title=""

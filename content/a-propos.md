@@ -51,7 +51,7 @@ FC69 1D01 BE58 94E1 AB37  01A2 C1D6 07CF 2BFB B004{{< /sidenote >}}. Vous pouvez
 
 ## À propos de ce site web
 J'ai maintenu un blog personnel sous une forme ou une autre depuis [2004](https://web.archive.org/web/20040212073601/http://www.treize.org/). _Dans Les Marges_ est la dernière mouture. Il est possible que j'importe de temps à autres de vieux articles.  
-Le site actuel est une collection de pensées qui couvrent mes points d'intérêts pour l'[#écriture](), la [#photographie](), les [#outils]() et la [#science](), les [#sciences humaines](), mes [#lectures](http://localhost:1313/categories/lectures) et quelques mises à jour [#perso]()nnelles.  
+Le site actuel est une collection de pensées qui couvrent mes points d'intérêts pour l'[#écriture](../categories/ecriture), la [#photographie](../categories/photographie), les [#outils](../categories/outils) et la [#science](../categories/science), les [#sciences humaines](../categories/sciences-humaines), mes [#lectures](../categories/lectures) et quelques mises à jour [#perso](../categories/perso)nnelles.  
 
 Il est construit avec:
 - [Hugo](https://gohugo.io) pour le moteur de blog

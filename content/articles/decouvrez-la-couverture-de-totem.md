@@ -17,12 +17,11 @@ Alors, sans plus attendre, voici, sous vos yeux (espérons) ébahis, la nouvelle
 
 {{< figure
   src="articles/img/TOTEMcover.jpg"
-  type="full"
-  larg="50%"
+  larg="75%"
   label="cv-totemcover"
   title=""
   caption=""
-  attr="Image attribution"
+  attr=""
   attrlink=""
   alt=""
   link="articles/img/TOTEMcover.jpg"

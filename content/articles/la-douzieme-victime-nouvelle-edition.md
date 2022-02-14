@@ -24,6 +24,6 @@ Mais comme pour tourner la page d’une aventure, je ne voulais pas simplement r
 
 Une version revue, corrigée, augmentée va donc voir le jour, avec une nouvelle mise en page, une nouvelle couverture qui sera bientôt révélée, suivez-moi sur les réseaux (ah ha, je suis trop fort en teasing), et un nouveau titre : **TOTEM**.
 
-Marquez-donc la date du **18 octobre 2021, jour officiel de la sortie de Totem **!
+Marquez-donc la date du **18 octobre 2021, jour officiel de la sortie de Totem** !
 
 Et profitez-en pour vous inscrire à la [newsletter](https://www.cyrilvallee.com/) pour avoir les nouveautés en primeur et des exclusivités.

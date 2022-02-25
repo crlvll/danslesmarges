@@ -78,13 +78,8 @@
 
 	<div class="copyright">
 	<p>
-    {{ with .Site.Params.copyright }}
-      {{ . | safeHTML }}
-    {{ else }}
-      &copy; {{now.Format "2006"}}
-    {{ with .Site.Params.copyrightHolder }}{{ . }}{{end}}.
-    All rights reserved.
-    {{end}}
+    <small>Contenus sous <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licence Creative Commons Attribution 4.0 International</a>, sauf mention contraire.</small>
   </p>
+
 </div>
 </footer>

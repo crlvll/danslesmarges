@@ -13,7 +13,7 @@ slug = "scrivener-adapter-comme-un-environnement-minimaliste"
 
 +++
 
-Au fil des ans, [Scrivener](http://www.literatureandlatte.com/scrivener.php) est devenu mon outil de prédilection dès qu’il s’agit de coucher des mots « sur le papier ». Pour être plus précis, si je ne suis pas sur l’un de mes ordinateurs mobiles (comprendre: iPad ou iPhone) et que ce que j’écris va dépasser la petite centaine de mots, cela va se passer dans Scrivener.
+Au fil des ans, [Scrivener](httpss://www.literatureandlatte.com/scrivener.php) est devenu mon outil de prédilection dès qu’il s’agit de coucher des mots « sur le papier ». Pour être plus précis, si je ne suis pas sur l’un de mes ordinateurs mobiles (comprendre: iPad ou iPhone) et que ce que j’écris va dépasser la petite centaine de mots, cela va se passer dans Scrivener.
 
 Organiser et réorganiser mes textes, lister et stocker des idées, conserver mes recherches (et les rendre accessibles, trouvables en trois clicks, exportables), depuis la liste des articles pour le blog jusqu’aux romans de plus de 120,000 mots, tout passe maintenant par cet outil, _qui rend simplement la vie d’auteur plus facile_.
 
@@ -21,7 +21,7 @@ Organiser et réorganiser mes textes, lister et stocker des idées, conserver me
 
 J’ai aussi appris à apprécier un environnement _minimaliste_ pour me concentrer sur mes idées et mon texte, et réduire le risque d’être distrait par une interface complexe ou des couleurs vives.
 
-Le succès de logiciels comme [ByWord](http://bywordapp.com/) ou [iAWriter](http://www.iawriter.com/mac/), qui sont des traitements de textes dépouillés (au bon sens du terme) est compréhensible de ce point de vue. Je les utilise d’ailleurs encore souvent pour des textes courts, ou encore sur mes iAppareils.
+Le succès de logiciels comme [ByWord](httpss://bywordapp.com/) ou [iAWriter](httpss://www.iawriter.com/mac/), qui sont des traitements de textes dépouillés (au bon sens du terme) est compréhensible de ce point de vue. Je les utilise d’ailleurs encore souvent pour des textes courts, ou encore sur mes iAppareils.
 
 Mais je reviens vers Scrivener dès qu’il s’agit d’organiser mon texte, d’avoir des références sous les yeux, ou simplement d’avoir la structure complète d’un projet plus complexe directement à l’écran, dans le même outil d’écriture qui me permet de travailler mes idées.
 
@@ -30,10 +30,10 @@ Mais je reviens vers Scrivener dès qu’il s’agit d’organiser mon texte, d�
 Seulement voilà: Scrivener peut aussi s’avérer très complet et complexe (pour être juste, si l’utilisateur le veut !)
 
 
-![img scrivener complet tout affiché](http://turbo.cyrilvallee.net/scrivener_master_cplx.png) 
+![img scrivener complet tout affiché](httpss://turbo.cyrilvallee.net/scrivener_master_cplx.png) 
 
 <div class="img-cap">
-  Scrivener, toutes voiles dehors.&nbsp;<span class="img-cred"><a href="http://cyrilvallee.net/copyright/"></a></span>
+  Scrivener, toutes voiles dehors.&nbsp;<span class="img-cred"><a href="httpss://cyrilvallee.net/copyright/"></a></span>
 </div>
 
 <div class="img-exif">
@@ -50,10 +50,10 @@ _Unclutter_, que l’on pourrait traduire librement par _simplifier_.
 Scrivener propose une première solution simple, probablement initiée par ByWord: le mode _composition_ (chez ByWord, on parlerait simplement de _plein écran_).
 
 
-![](http://turbo.cyrilvallee.net/scrivener_fullscreen.png) 
+![](httpss://turbo.cyrilvallee.net/scrivener_fullscreen.png) 
 
 <div class="img-cap">
-  Scrivener en mode plein écran. Ne prêtez pas attention au texte insipide et bourré d’erreurs et de fautes que vous voyez s’afficher: il s’agit d’un <em>brain dump</em>.&nbsp;<span class="img-cred"><a href="http://cyrilvallee.net/copyright/"></a></span>
+  Scrivener en mode plein écran. Ne prêtez pas attention au texte insipide et bourré d’erreurs et de fautes que vous voyez s’afficher: il s’agit d’un <em>brain dump</em>.&nbsp;<span class="img-cred"><a href="httpss://cyrilvallee.net/copyright/"></a></span>
 </div>
 
 <div class="img-exif">
@@ -63,19 +63,19 @@ On peut l’activer soit par le menu `View > Enter Composition Mode`, soit par l
 
 Ici, tout est personnalisable.
 
-À commencer par la police. Personnellement, je préfère écrire en police à espacement fixe, et je suis tombé _en amour_ devant la police utilisée dans iAWriter : [Nitti Light](http://www.boldmonday.com/en/nitti_overview), aussi l’ai-je installée dans les paramètres par défaut.
+À commencer par la police. Personnellement, je préfère écrire en police à espacement fixe, et je suis tombé _en amour_ devant la police utilisée dans iAWriter : [Nitti Light](httpss://www.boldmonday.com/en/nitti_overview), aussi l’ai-je installée dans les paramètres par défaut.
 
 Modifier la fonte d’affichage du mode d’édition reste simple: il suffit de faire un petit tour par les préférences de Scrivener, sous l’onglet `Formatting`, puis sur le `A` qui symbolise le choix des polices.
 
-![](http://turbo.cyrilvallee.net/scriv_pref_police_1.png)
+![](https://turbo.cyrilvallee.net/scriv_pref_police_1.png)
 
 Là, la fenêtre système de choix de police s’affiche. Il ne reste qu’à choisir la fonte, la taille, éventuellement la couleur si vous souhaitez la modifier.
 
-![](http://turbo.cyrilvallee.net/scriv_pref_police_2.png)
+![](https://turbo.cyrilvallee.net/scriv_pref_police_2.png)
 
 Le reste des options est accessible directement depuis le mode _composition_ (à ne pas confondre avec le mode plein écran de _Mountain Lion_, CQFD). Si je glisse ma souris vers le bas, une barre de contrôle apparait.
 
-![](http://turbo.cyrilvallee.net/scriv_fullscreen_options.png)
+![](https://turbo.cyrilvallee.net/scriv_fullscreen_options.png)
 
 Tout est réglable, avec, dans l’ordre, le _zoom_, la position de la page, la largeur de celle-ci, et même l’opacité du fond.
 
@@ -107,7 +107,7 @@ Et puis masquons ou affichons le _Binder_ et l&#8217;_Inspector_ à la demande :
 
 Voilà, j’ai donc une interface minimaliste, me permettant de me concentrer sur mon texte, mes idées, ou mon histoire.
 
-![](http://turbo.cyrilvallee.net/scrivener_mnml.png)
+![](https://turbo.cyrilvallee.net/scrivener_mnml.png)
 
 Et d’un ou deux raccourcis clavier, je peux voir où j’en suis dans mon histoire par exemple en affichant le _Binder_ , ou encore les notes associées à ce chapitre particulier en affichant l’inspecteur.
 

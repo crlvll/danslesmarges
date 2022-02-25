@@ -11,7 +11,7 @@ slug = "comment-cory-doctorow-fait-il-pour-tre-aussi-productif"
 
 Il était l’invité de Glenn Fleishmann lors [d’un récent podcast](http://www.muleradio.net/newdisruptors/24/) (_New Disruptors podcast_), durant lequel il a répondu à quelques questions sur sa productivité, notamment: quel est votre secret pour produire autant{{< sidenote >}}Ce ne sont que mes notes de &ldquo;lectures&rdquo; et pas une fidèle retranscription. Je vous invite à [écouter le podcast](http://www.muleradio.net/newdisruptors/24/) dans son intégralité.{{< /sidenote >}} ?
 
-![](http://farm8.staticflickr.com/7105/7102879017_fe81ba1030_b.jpg)
+![](https://farm8.staticflickr.com/7105/7102879017_fe81ba1030_b.jpg)
 
 ### Sur le secret de sa productivité, il répond donc:
 

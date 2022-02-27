@@ -16,7 +16,11 @@ pre code {
     font-size: 1.2rem;
 }
 .toc summary {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
+}
+#TableOfContents {
+    padding-top: 1rem;
+    padding-left: 1rem;
 }
 footer.page-footer p {
     font-size: 1.2rem;
@@ -48,7 +52,8 @@ p, ol, ul { font-size: 1.2rem;
     line-height: 1.8rem;
 }
 
-p { line-height: 2rem; }
+p { line-height: 2rem; 
+text-align: justify;}
 
 .content-meta {
     font-size: 1rem;

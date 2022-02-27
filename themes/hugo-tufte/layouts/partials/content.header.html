@@ -36,6 +36,9 @@
             <a  href="{{ "/categories/" | absURL }}{{ . | urlize }}">{{ . }}</a>
           {{ end }}
         {{ end }}
+        {{ if .Params.status }}
+          | Statut: <a href="/a-propos/#LongSite" >{{ .Params.status }}</a>
+        {{ end }}
       </span>
     {{ end }}
   {{ end }}

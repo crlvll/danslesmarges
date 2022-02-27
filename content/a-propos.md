@@ -2,6 +2,7 @@
 title = "À propos de l'auteur"
 hasMath = false 
 notfrontpage = true
+toc = true
 +++
 
 Voici ce que dit la bio de mon site d'auteur:  {{< figure
@@ -57,10 +58,17 @@ Il est construit avec:
 - [Hugo](https://gohugo.io) pour le moteur de blog
 - [Tufte CSS](https://edwardtufte.github.io/tufte-css/) (modifié/adapté) 
 
+Archivé sur [Github](https://github.com/crlvll) et mis en ligne via [Netlify](https://netlify.com/).
+
 J'ai volé des idées chez:
 - [_Beyond the Frame_](https://schmud.de/)
 - [Craig Mod](https://craigmod.com)
 
+{{< section id="LongSite" >}} 
+
+{{< newthought >}}Depuis 2020, je me rapproche de plus en plus{{< /newthought >}} de l'idée des formats libres, des outils <abbr title="Free and Open Source Software">FOSS</abbr>, et de la pérennité des écrits sur internet (_Long site_ ou _Long content_). Le passage de ce site vers une version statique est une première étape.  
+Plutôt que d'écrire des articles destinés à être lus une fois et à tomber dans l'oubli, j'ai aussi l'intention de donner plus de valeur au contenus de ce site en revenant et faisant des mises à jour autant que nécessaire. J'ai donc implémenté, sur certains articles ou essais un statut définissant l'état actuel du texte: _'en progrès'_ ou _'fini'_.
+{{< section "end" >}}
 ## Comment je lis
 Je suis un lecteur _hybride_, utilisant à la fois des ebooks, plutôt pour la fiction, et les livres papiers pour le reste de mes lectures.  
 

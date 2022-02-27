@@ -15,7 +15,7 @@ slug = "scrivener-organiser-la-structure-de-ses-textes"
 
 À partir d’une certaine longueur, tout texte a besoin d’une structure. C’est particulièrement vrai pour les textes longs (cela vous semble évident pour une thèse scientifique, par exemple), mais également pour tout travail de fiction, et cela va bien au-delà du simple découpage en chapitres.
 
-Il existe différentes _écoles_ pour structurer une histoire, et vous pouvez tomber sur des méthodes un peu partout sur internet. Mais que vous penchiez pour la structure en 7 points ([exposée par Dan Wells](http://www.fearfulsymmetry.net/?p=405)) ou le développement d’histoire en 8 points ([Randy Ingermanson](http://www.advancedfictionwriting.com/articles/snowflake-method/)), la nécessité de structurer son texte est là.
+Il existe différentes _écoles_ pour structurer une histoire, et vous pouvez tomber sur des méthodes un peu partout sur internet. Mais que vous penchiez pour la structure en 7 points ([exposée par Dan Wells](https://www.fearfulsymmetry.net/?p=405)) ou le développement d’histoire en 8 points ([Randy Ingermanson](https://www.advancedfictionwriting.com/articles/snowflake-method/)), la nécessité de structurer son texte est là.
 
 Et c’est l’un des (nombreux) points forts de Scrivener, puisque cet outil va être d’une grande aide pour travailler la structure d’un texte, quelle que soit sa longueur, offrant une vue aérienne du projet, et permettant de faire des modifications dans l’ordre des scènes, chapitres ou sections très facilement.
 
@@ -23,7 +23,7 @@ Et c’est l’un des (nombreux) points forts de Scrivener, puisque cet outil va
 
 Mais l’interface de Scrivener peut vite faire peur et décourager le premier utilisateur, simplement devant l’ensemble (énorme) des possibilités offertes.
 
-![](http://turbo.cyrilvallee.net/scrivener-first-opened.png)
+![](https://turbo.cyrilvallee.net/scrivener-first-opened.png)
 
 <div class="img-cap">
   Scrivener, la première fois que l’on ouvre un projet.
@@ -32,9 +32,9 @@ Mais l’interface de Scrivener peut vite faire peur et décourager le premier u
 <div class="img-exif">
 </div>
 
-Dans un [précédant article](http://cyrilvallee.net/2013/03/21/scrivener-adapter-comme-un-environnement-minimaliste/), nous avons déjà vu qu’il est très facile de modeler le logiciel pour en faire ce que l’on veut, et simplifier grandement l’interface pour se concentrer sur la tâche.
+Dans un [précédant article](https://cyrilvallee.net/2013/03/21/scrivener-adapter-comme-un-environnement-minimaliste/), nous avons déjà vu qu’il est très facile de modeler le logiciel pour en faire ce que l’on veut, et simplifier grandement l’interface pour se concentrer sur la tâche.
 
-![](http://turbo.cyrilvallee.net/scrivener_mnml.png)
+![](https://turbo.cyrilvallee.net/scrivener_mnml.png)
 
 <div class="img-cap">
   Beaucoup mieux ! Notez les extraits de mon thriller, <em>Ximera</em>, à paraitre tout bientôt !
@@ -49,7 +49,7 @@ En termes d’organisation et de structure, différentes façons de penser le pr
 
 ## _Outliner_ ou _Corkboard_ – Mode plan détaillé ou post-it épinglés.
 
-![](http://turbo.cyrilvallee.net/scrivener-corkboard-anot.png)
+![](https://turbo.cyrilvallee.net/scrivener-corkboard-anot.png)
 
 Certains auteurs fonctionnent beaucoup avec ce genre de tableau, sous cette forme ou celle de post-it, par exemple, pour avoir une **vue d’ensemble** du projet, et donc avoir une idée générale de la structure, du rythme, de l’utilité de chaque scène. Et ce, d’autant plus que d’autres informations sont disponibles grâce à l’inspecteur (pour mémoire : `⌘-⌥-I` pour le masquer ou le montrer).
 
@@ -57,13 +57,13 @@ En 1, un synopsis de la fiche séléctionnée (qui peut être générée automat
 
 Une autre façon de voir les choses est sous la forme d’un _outliner_, forme de plan détaillé que j’utilise plus souvent, simplement parce que cela correspond mieux à ma façon de penser mon histoire.
 
-![](http://turbo.cyrilvallee.net/scrivener-outline.png)
+![](https://turbo.cyrilvallee.net/scrivener-outline.png)
 
 Ici, j’ai masqué l’inspecteur, et je me concentre uniquement sur les scènes (ou chez moi: les chapitres), avec un petit synopsis pour chacun, le point de vue (POV), le statut de la scène en question, et toute option que je souhaite voir dans cette vue.
 
 Ici comme ailleurs dans le logiciel tout est personnalisable, dans le menu `View > Outliner Columns`.
 
-![](http://turbo.cyrilvallee.net/scrivener-outline-menu.png)
+![](https://turbo.cyrilvallee.net/scrivener-outline-menu.png)
 
 Bien entendu, rien ne vous empêche d’utiliser les deux systèmes, ou de passer de l’un à l’autre selon vos besoins. Ce ne sont finalement que des façons différentes de présenter la structure de votre document, disponibles _à portée de clic_.
 
@@ -89,15 +89,15 @@ Ici encore, des petits raccourcis clavier peuvent sauver bien du temps.
 
 Je me rends compte qu’un chapitre est trop long, je souhaite en faire deux chapitres distincts. Il suffit de placer mon curseur à l’endroit de la séparation:
 
-![](http://turbo.cyrilvallee.net/scrivener-split-1.png)
+![](https://turbo.cyrilvallee.net/scrivener-split-1.png)
 
 Puis `⌘-K`, pour me retrouver avec un nouveau chapitre (que je dois renommer).
 
-![](http://turbo.cyrilvallee.net/scrivener-split-2.png)
+![](https://turbo.cyrilvallee.net/scrivener-split-2.png)
 
 Pour faire l’inverse, je sélectionne deux chapitres (sections, morceaux de texte, comme vous voulez)
 
-![](http://turbo.cyrilvallee.net/scrivener-merge.png)
+![](https://turbo.cyrilvallee.net/scrivener-merge.png)
 
 Puis `⇧-⌘-M`, pour en faire un chapitre unique.
 

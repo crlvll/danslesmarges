@@ -1,0 +1,40 @@
+.bleh {
+background-image: linear-gradient(-45deg, rgb(62, 56, 90), rgb(32, 47, 63));
+position: fixed;
+right: 0px;
+bottom: 0px;
+left: 0px;
+min-height: 16.5px;
+font-family: "Roboto Mono", monospace;
+font-size: 0.75rem;
+transition-duration: 0.3s;
+transition-timing-function: initial;
+transition-delay: initial;
+transition-property: transform;
+}
+.lopp {
+position: relative;
+display: flex;
+-webkit-box-align: center;
+align-items: center;
+flex-direction: column;
+-webkit-box-pack: center;
+justify-content: center;
+background-color: rgb(32, 47, 63);
+color: rgb(255, 255, 255);
+text-align: center;
+}
+.row1 {
+	width: 100%;
+	position: relative;
+}
+.colonne {
+	max-width: 30%;
+	float: left;
+	display: inline-flex;
+	margin: 1%;
+}
+.colonne img {
+	max-width: 100%;
+	padding:  5px;
+}

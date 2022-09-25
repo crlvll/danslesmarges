@@ -1,98 +1,60 @@
-# Remove this if your site folder is not inside the theme folder
-# themesDir = "../../"
+# Basic
+title = "Cyril Vallée"
+baseURL = "https://www.cyrilvallee.net/"
+theme = "Vno Hugo"
 
-theme = "hugo-tufte"
-languageCode = "fr"
-# The url of your website
-baseurl = ""
-title = "Dans les marges"
-math = true
-# (If math is enabled) 
-## if "katex" is set to true katex will be used to render LaTex, if not MathJax will be used instead
-katex = true
+# Pagination
+paginate = 10
+paginatePath = "page"
 
-[params]
-  subtitle = "Le blog personnel de l'auteur Cyril Vallée."
-  copyrightHolder = "Cyril Vallée"
-  showPoweredBy = false
-  hidedate = false
-  # Uncomment for dark code blocks
-  # codeBlocksDark = true
+[outputs]
+  home = ["HTML", "RSS"]
 
-  # Common social website links, please comment the unused ones.
-  github = "crlvll"
-  # gitlab = "slashformotion"
-  twitter = "_cyrilvallee_"
-  # patreon = ""
-  # youtube = "user/ChromeDevelopers" # check the end of your youtube url https://www.youtube.com/<copy_this>
-  # medium = "slashformotion"
-  # reddit = "Slashformotion"
-  # stackoverflow = "16609732/slashformotion"
-  instagram = "_cyrilvallee_"
-  # mastodon = "instance.url/@username"
-  # orcid = "0000-0003-0634-3275"
-  # google_scholar = "jm5QaHkAAAAJ"
+[menu]
+  [[menu.main]]
+    name = "Livres"
+    identifier = "livres"
+    url = "https://cyrilvallee.com/"
+    weight = 10
 
 [taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
+    tag = "tags"
+    
+[params]
+author = "Cyril Vallée"
+subtitle = "Romancier et auteur de l'imaginaire."
+description = "Je publie des thrillers, des aventures fantastiques et de la SF."
+welcomeMessage = "Je transforme la caféine en de bonnes histoires. Lisez mon dernier roman : Timeskippers - Livre I."
 
-# -----------------------------------------------------------------------
-# Navigation menu 
-# -----------------------------------------------------------------------
-[[menu.nav]]
-  name = "Accueil"
-  pre = "<i class='fas fa-home la-lg'></i>"
-  weight = -110 
-  identifier = "home"
-  url = "/"
-[[menu.nav]]
-  name = "Now"
-  pre = "<i class='fas fa-tags fa-lg'></i> "
-  weight = -90 
-  identifier = "categories"
-  url = "/now"
-[[menu.nav]]
-  name = "À propos"
-  pre = "<i class='fas fa-info-circle  fa-lg'></i> "
-  weight = -80 
-  identifier = "a-propos"
-  url = "/a-propos"
-[[menu.nav]]
-  name = "Mes Livres"
-  pre = "<i class='fab fa-github fa-lg'></i> "
-  weight = -70 
-  identifier = "livres"
-  url = "https://www.cyrilvallee.com"
-[[menu.nav]]
-  name = "Archives"
-  pre = "<i class='fas fa-book fa-lg'></i> "
-  weight = -60 
-  identifier = "Les Archives"
-  url = "/articles"
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+coverColor = "slate"
 
-# -----------------------------------------------------------------------
-# FOOTER MENU
-# If you need to add custom links to you footer: put them here. Be aware that this theme is using fontawesome. 
-# Please head to https://fontawesome.com/v4.7/icons/ to pick icons
-# -----------------------------------------------------------------------
+[params.comment]
+disqus = ""
+duoshuo = ""
 
-##[[menu.footer]]
-##  name = "Custom footer link"
-##  pre = "<i class='fab fa-google fa-lg'></i> "
-##  weight = -90 
-##  identifier = "custom_link"
-##  url = "https://google.com"
+# Take a look on https://github.com/gitalk/gitalk#usage for more info.
+[params.comment.gitalk]
+ID = ""
+secret = ""
+repo = ""
+owner = ""
 
+[params.social]
+weibo = ""
+github = ""
+twitter = "_cyrilvallee_"
+gplus = ""
+mail = "salut@cyrilvallee.com"
 
-# Don't change the settings below
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true # make the shortcodes work
-  [markup.highlight]
-      noClasses = false
+[params.ga]
+ID = ""
+host = ""
 
-pygmentsUseClasses = true
-canonifyurls = true
+# The blog button should not be removed.
+[params.blogButton]
+title = "Plus ?"
+description = "En savoir plus sur Cyril Vallée"
+
+[permalinks]
+posts = "/:year/:month/:title/"

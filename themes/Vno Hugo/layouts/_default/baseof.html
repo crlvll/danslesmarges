@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<head>
+
+  {{ partial "head.html" . }}
+
+  
+</head>
+<body>
+  <span class="mobile btn-mobile-menu">
+
+    <i class="fa fa-list btn-mobile-menu__icon"></i>
+    <i class="fa fa-angle-up btn-mobile-close__icon hidden"></i>
+
+  </span>
+  
+  {{ partial "side-panel.html" . }}
+
+  <div class="content-wrapper">
+    <div class="content-wrapper__inner">
+            <h2>Qui est Cyril Vallée ?</h2>
+
+            <p>Je suis né en 1973. Je vis en Suisse avec ma famille. </p>
+            <p>Longtemps professionnel de l’urgence, j'ai rencontré l’écriture au travers du développement d’un scénario, coaché par Jean-Marie Roth. Ce fut une révélation, devenue une passion depuis plus de vingt ans : raconter des histoires au travers de mes écrits.</p>
+            <p>Après un premier thriller et un passage du côté de la science-fiction, je travaille actuellement sur une trilogie fantastique.</p>
+            <h3>Livres</h3>
+            <div class="row1">
+              <div class="colonne">
+                <img src="https://cyrilvallee.com/media/TOTEM.couverture.jpeg-1.jpg" alt="">
+              </div>
+              <div class="colonne">
+                <img src="https://cyrilvallee.com/media/tbcover.jpg" alt="">
+              </div>
+              <div class="colonne">
+                <img src="https://cyrilvallee.com/media/lrdecover.jpg" alt="">
+              </div>
+            </div>
+            <p>Vous trouverez plus d'informations concernant mes livres sur le site <a style="text-decoration: underline;" href="https://cyrilvallee.com">cyrilvallee.com</a>. Je publie aussi un blog (mais si, vous savez, ce truc super vieux, juste après <em>MySpace</em>), et vous pouvez vous inscrire à la newsletter directement depuis le site "pro".</p>
+            <p> Pour m'écrire en <b>respectant notre vie privée</b>, cryptez votre message en utilisant ma <a style="text-decoration: underline;" href="/cyrilvallee.asc" >clé publique PGP</a> (apprenez à le faire <a style="text-decoration: underline;" href="https://ssd.eff.org/fr/module-categories/guides-sur-les-outils">ici</a>).
+
+        <!--{{ block "main" . }}{{ end }}-->
+        {{ partial "footer.html" . }}
+
+    </div>
+  </div>
+
+  {{ partial "external.html" . }}
+</body>
+
